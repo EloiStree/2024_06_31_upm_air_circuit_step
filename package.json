@@ -1,15 +1,15 @@
-
-{                                                                                
-  "name": "be.elab.droneracestepmesh",                              
-  "displayName": "Drone Race Steps",                        
-  "version": "0.0.1",                         
-  "unity": "2018.1",                             
-  "unityRelease": "",                             
-  "description": "Mesh and element to create a race for drone.",                         
-  "keywords": ["Script","Tool"],                       
-  "dependencies":{},     
-  "relatedPackages":{},     
- "samples": [
+{
+  "name": "be.elab.droneracestepmesh",
+  "displayName": "\ud83e\uddf0 Drone Race Steps",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "Mesh and element to create a race for drone.",
+  "keywords": [
+    "Script",
+    "Tool"
+  ],
+  "relatedPackages": {},
+  "samples": [
     {
       "displayName": "Demo Scene",
       "description": "A sample scene that demonstrates the features of this package.",
@@ -20,11 +20,12 @@
     "name": "Eloi Stree",
     "mail": "",
     "url": "https://github.com/EloiStree/"
-  },   
-  "repository":{
-"type":"Git",
-"url":"https://github.com/EloiStree/2024_06_31_DroneRaceStep.git",
-"footprint":"",
-"revision":""},     
-  "category": "Script"                   
-} 
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/EloiStree/2024_06_31_DroneRaceStep.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+}
