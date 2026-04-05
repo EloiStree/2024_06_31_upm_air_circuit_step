@@ -1,6 +1,6 @@
 {
   "name": "be.elab.droneracestepmesh",
-  "displayName": "\ud83e\uddf0 Drone Race Steps",
+  "displayName": "\ud83e\uddf0: Air Circuit Step",
   "version": "0.0.1",
   "unity": "2018.1",
   "description": "Mesh and element to create a race for drone.",
